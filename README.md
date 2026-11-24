@@ -1,3 +1,5 @@
+> Latest translations / 翻訳の最新版: [0-LATEST-TRANSLATIONS.md](0-LATEST-TRANSLATIONS.md)
+
 ﻿# open-english
 
 > 📛 **改名のお知らせ**: このプロジェクトは **open-english → [maid-cafe-english](https://github.com/aon-co-jp/maid-cafe-english)** に改名・お引越ししました。旧名のこのリポジトリも**永久に残し**、リンク・リリース・自動更新はそのまま使えます(更新は新旧の両方で配布)。運用URLは、https://maid-cafe.tokyo  正し実際には、ご自分のPCやタブレットやスマホにダウンロードしてご利用下さいませ。お帰りなさいませ、ご主人様！
